@@ -1,7 +1,7 @@
 {
   "name": "react-native-toast-android",
   "version": "1.0.2",
-  "description": "react native toast module",
+  "description": "React Native Module for Android Toast ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,11 @@
     "toast",
     "ganxunzou"
   ],
-  "author": "ganxunzou",
-  "license": "ISC"
+  "license": "ISC",
+  "author": {
+    "name": "ganxunzou@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ganxunzou/react-native-toast"
+  }
 }
