@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-android",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "React Native Module for Android Toast ",
   "main": "index.js",
   "scripts": {
