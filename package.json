@@ -1,6 +1,6 @@
 {
   "name": "react-native-toast-android",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "description": "React Native Module for Android Toast ",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,17 @@
     "name": "ganxunzou@163.com"
   },
   "bugs": {
-    "url": "https://github.com/ganxunzou/react-native-toast"
+    "url": "https://github.com/ganxunzou/react-native-toast/issues"
+  },
+  "homepage": "https://github.com/ganxunzou/react-native-toast#readme",
+  "maintainers": [
+    {
+      "email": "ganxunzou@163.com",
+      "name": "ganxunzou"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ganxunzou/react-native-toast.git"
   }
 }
